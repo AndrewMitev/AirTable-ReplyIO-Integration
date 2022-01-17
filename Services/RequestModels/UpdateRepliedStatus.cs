@@ -7,16 +7,16 @@ namespace AirReplyAPI.Data.RequestModels
         [JsonProperty("Email Replied")]
         public string Email_Replied_Date { get; set; }
 
-        [JsonProperty("Z_Email Replied")]
+        [JsonProperty("Email Replied")]
         public bool? Z_Email_Replied { get; set; }
 
-        [JsonProperty("Z_Email Response (From Reply.io)")]
+        [JsonProperty("Email Response")]
         public string? Z_EmailResponse { get; set; }
 
-        [JsonProperty("Replied_Step#")]
+        [JsonProperty("Replied Step#")]
         public int? RepliedStep { get; set; }
 
-        [JsonProperty("Z_Contact Status")]
+        [JsonProperty("Contact Status")]
         public string? ContactStatus { get; set; }
     }
 }

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5950e9a3-c441-4dad-84cc-85b4d6b586c1": {
+      "ProjectGuid": "5950e9a3-c441-4dad-84cc-85b4d6b586c1",
+      "DisplayName": "AirReplyAPI",
+      "ColorIndex": 0
+    },
+    "bba6e59b-18cf-44b6-bd24-2a515eac17bf": {
+      "ProjectGuid": "bba6e59b-18cf-44b6-bd24-2a515eac17bf",
+      "DisplayName": "AirReplyAPI.Data",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
